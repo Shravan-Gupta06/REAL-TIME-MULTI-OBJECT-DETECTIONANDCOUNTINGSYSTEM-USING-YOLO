@@ -1,8 +1,7 @@
 # Object Tracking & Counting with YOLOv8
 
-## Watch the Video 📺
 
-[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/YyidGtx-QmQ)
+
 
 ## Overview
 This project demonstrates real-time **Object detection, tracking, and counting** using **YOLOv8**, **Supervision**, and **OpenCV**. The goal is to track Object movement across a defined line in a video and count how many people enter and exit. This approach is useful for applications like **crowd analysis, surveillance, and retail analytics**.
@@ -13,15 +12,12 @@ This project demonstrates real-time **Object detection, tracking, and counting**
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Video Source](#video-source)
-3. [Technologies Used](#technologies-used)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Features](#features)
-7. [Results](#results)
-8. [Contributing](#contributing)
-9. [License](#license)
-
+2. [Technologies Used](#technologies-used)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Features](#features)
+6. [Results](#results)
+7. 
 ---
 
 ## Introduction
@@ -133,7 +129,4 @@ We welcome contributions to improve this project! To contribute:
 
 ---
 
-## Contact
-For questions or support, please reach out:  
-- **Email**: nikzmishra@gmail.com  
-- **YouTube**: [NeuralArc00](https://www.youtube.com/@NeuralArc00/videos)  
+ 
