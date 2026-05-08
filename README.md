@@ -17,7 +17,7 @@ This project demonstrates real-time **Object detection, tracking, and counting**
 4. [Usage](#usage)
 5. [Features](#features)
 6. [Results](#results)
-7. 
+
 ---
 
 ## Introduction
@@ -56,8 +56,8 @@ Ensure Python (>= 3.8) is installed on your system.
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DataScientist00/Credit-Card-Fraud-Detection-Project.git
-   cd Credit-Card-Fraud-Detection-Project
+   git clone https://github.com/Shravan-Gupta06/REAL-TIME-MULTI-OBJECT-DETECTIONANDCOUNTINGSYSTEM-USING-YOLO/tree/main
+   cd REAL-TIME-MULTI-OBJECT-DETECTIONANDCOUNTINGSYSTEM-USING-YOLO
    ```
 2. Create and activate a virtual environment:
    ```bash
